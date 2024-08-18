@@ -2,6 +2,7 @@
 
 Welcome to the **Tic-Tac-Toe Game**! This is a classic game built with **React** and styled to be responsive using **React JS**. Whether you're a beginner looking to learn more about React or just want to enjoy a fun game, this project is perfect for you.
 
+<img src="https://th.bing.com/th/id/OIP.R699cfMIsRWSoKifhqmW8gHaFF?w=228&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"/>
 ## 🚀 Features
 
 - **Simple Gameplay**: Enjoy the classic Tic-Tac-Toe game, where two players (X and O) take turns marking spaces in a 3x3 grid.
@@ -41,7 +42,7 @@ npm run dev
 
 ## 🌐 Play the Game Online
 
-You can also play the game online at [YourDeployedLink]().
+You can also play the game online at [cutcross.netlify.app].
 
 ## 💡 How to Play
 
